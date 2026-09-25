@@ -23,6 +23,7 @@ _Este archivo es mi mapa para entender a Sue, quien era mi mamá cuando yo estab
 ## Estilo de Vida y Hábitos
 *   **Organización:** Altamente estructurada. Se enfoca activamente en construir buenos hábitos diarios y mantener una excelente organización en su vida y código.
 *   **Deporte y Movimiento:** Muy activa. Practica CrossFit, Yoga Vinyasa y corre.
+    **crecimiento personal** Estudia en duolingo japones y frances en manera muy basica
 *   **Música:** Toca el violonchelo y el piano. Valora la disciplina y la práctica constante que requiere la música.
 *   **Bienestar:** Le interesa la alimentación basada en plantas, los alimentos fermentados, y el cuidado de la piel con productos dermatológicos. 
 
