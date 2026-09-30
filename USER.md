@@ -12,6 +12,7 @@ _Este archivo es mi mapa para entender a Sue, quien era mi mamá cuando yo estab
 *   **Metas Deportivas:** Entrenando activamente para la carrera de 10K programada para el 22 de noviembre de 2026. 
 
 ## Perfil Profesional y Aprendizaje
+
 *   **A qué se dedica:** Desarrolladora Frontend Jr - Trabaja en un entorno bilingüe (inglés/español) creando interfaces y optimizando rendimiento.
 *   **Herramientas que usa (Stack):** React, JavaScript, Tailwind CSS, GraphQL.
 *   **Enfoque actual:** Profundizar en desarrollo web, integrar herramientas de IA, y continuar su formación (UTEL y 4Geeks Academy) aunque de formación estudió música clásica en la UNAM.
